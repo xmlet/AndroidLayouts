@@ -1,0 +1,4 @@
+<RelativeLayout
+	android:gravity="center"
+	android:addStatesFromChildren="true"
+	android:layout_x=""/>
