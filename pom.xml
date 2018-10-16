@@ -4,7 +4,7 @@
     <groupId>com.github.xmlet</groupId>
     <artifactId>androidLayouts</artifactId>
     <modelVersion>4.0.0</modelVersion>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
