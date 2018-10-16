@@ -194,14 +194,7 @@
         <dependency>
             <groupId>com.github.xmlet</groupId>
             <artifactId>androidLayoutsApi</artifactId>
-            <version>1.0.0-snapshot</version>
-            <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.github.xmlet</groupId>
-            <artifactId>xsdAsmFaster</artifactId>
-            <version>1.0.4-SNAPSHOT</version>
+            <version>1.0.0</version>
             <scope>compile</scope>
         </dependency>
 
