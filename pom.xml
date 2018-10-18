@@ -4,7 +4,7 @@
     <groupId>com.github.xmlet</groupId>
     <artifactId>androidLayouts</artifactId>
     <modelVersion>4.0.0</modelVersion>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -167,7 +167,7 @@
         <developerConnection>scm:git:git@github.com:xmlet/AndroidLayouts.git</developerConnection>
         <url>git@github.com:xmlet/AndroidLayouts.git</url>
         <!--tag>HEAD</tag-->
-        <tag>androidLayouts-1.0.1</tag>
+        <tag>androidLayouts-1.0.0</tag>
     </scm>
     <distributionManagement>
         <snapshotRepository>
