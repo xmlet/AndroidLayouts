@@ -16,9 +16,9 @@ public class AndroidLayoutsTest {
         Android android = new Android(androidObj ->
                 androidObj.layout()
                     .relativeLayout()
-                        .attrGravity(EnumGravityRelativeLayout.CENTER)                        /* Method from RelativeLayout */
-                        .attrAddStatesFromChildren(EnumAddStatesFromChildrenViewGroup.TRUE)   /* Method from ViewGroup */
-                        .attrLayoutX("")                                                      /* Method from View */
+                        .attrGravity(EnumGravityRelativeLayout.CENTER)      /* Method from RelativeLayout */
+                        .attrAddStatesFromChildren(true)                    /* Method from ViewGroup */
+                        .attrLayoutX("")                                    /* Method from View */
                     .__());
 
         boolean implementsView = false;
